@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/paramiko/paramiko/commit/d87f9c01c158588fe3ecb635ca7c0d7c0c1a26cc",
       "git:hexsha": "d87f9c01c158588fe3ecb635ca7c0d7c0c1a26cc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/paramiko/paramiko/commit/721f74d8c240071e444ed1cdfff432c75339e8b2",
